@@ -1,0 +1,9 @@
+html{
+    background-color: whitesmoke;
+    max-width: 1300px;
+    margin:0px auto;
+}
+
+.center{
+    text-align: center;
+}
